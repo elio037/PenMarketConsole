@@ -16,7 +16,8 @@ Class 다이어그램
 
 # 요구사항 명세서
 ---
-요구사항 정의 
+# 요구사항 정의 
+---
 ![요구사항 정의](https://github.com/user-attachments/assets/3f20322e-1b0c-49fe-b0a5-5411607723e0)
 
 # 펜
