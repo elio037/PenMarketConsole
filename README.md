@@ -1,12 +1,42 @@
 # PenMarketConsoleApp
 ---
+# 프로젝트명 : PenMarket
+---
+PenMarket은 펜, 볼펜, 잉크, 볼펜 리필을 판매하는 쇼핑몰입니다.
+
 # 목차
 ---
+요구사항 명세서
+
 Use-Case다이어그램
 
 Class 다이어그램
 
 콘솔앱 영상(1.회원 2.관리자)
+
+# 요구사항 명세서
+---
+요구사항 정의 
+![요구사항 정의](https://github.com/user-attachments/assets/3f20322e-1b0c-49fe-b0a5-5411607723e0)
+
+# 펜
+---
+![기능 요구사항 펜](https://github.com/user-attachments/assets/a78c46fc-f61a-4dfd-923d-1c05f357c2fc)
+
+# 사용자
+---
+![기능 요구사항 유저 완](https://github.com/user-attachments/assets/97af3fc3-f90c-4ebe-85a2-e5f672ec7304)
+
+# 주문
+---
+![요구사항 주문](https://github.com/user-attachments/assets/6fca19bc-11a7-4977-9b28-55fdfe09c83c)
+
+# 장바구니
+---
+![요구사항 장바구니](https://github.com/user-attachments/assets/8adca594-3bb3-49f5-9410-8e8699fdd366)
+
+
+
 
 # Use-Case 다이어그램
 ---
