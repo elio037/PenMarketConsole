@@ -45,8 +45,7 @@ Class 다이어그램
 # Class 다이어그램
 ---
 # Pen 패키지 
-![image](https://github.com/user-attachments/assets/27a38021-de93-4887-b73d-68f3ae88446f)
-
+![image](https://github.com/user-attachments/assets/3d16748a-52b1-43ee-9a00-cc4214202faf)
 ---
 # member 패키지
 ![member](https://github.com/user-attachments/assets/c2780b7b-5406-43f1-92d6-160f78e27038)
