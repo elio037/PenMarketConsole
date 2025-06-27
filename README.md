@@ -16,7 +16,8 @@ Class 다이어그램
 
 # Use-Case 다이어그램
 ---
-![유케](https://github.com/user-attachments/assets/652467f9-acef-4ee3-9033-3b42b82df337)
+![유케](https://github.com/user-attachments/assets/afa8505a-d2d3-411b-b524-181d53047848)
+
 
 # 요구사항 명세서
 ---
