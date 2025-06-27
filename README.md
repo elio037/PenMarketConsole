@@ -54,7 +54,8 @@ Class 다이어그램
 ![Order](https://github.com/user-attachments/assets/36177dc6-e63f-4b8b-b56e-6fd915493294)
 ---
 # cart 패키지
-![Cart](https://github.com/user-attachments/assets/e2a78e0d-ed9f-4a9c-8b67-9f40447a6908)
+![image](https://github.com/user-attachments/assets/d97676de-a8c5-4839-b85d-21dbf659715a)
+
 ---
 # 콘솔앱 시연 영상
 
