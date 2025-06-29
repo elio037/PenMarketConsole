@@ -16,6 +16,8 @@ Class 다이어그램
 
 콘솔앱 영상(1.회원 2.관리자)
 
+코드리뷰
+
 # Use-Case 다이어그램
 ---
 ![유케](https://github.com/user-attachments/assets/afa8505a-d2d3-411b-b524-181d53047848)
@@ -52,10 +54,12 @@ Class 다이어그램
 ![image](https://github.com/user-attachments/assets/3d16748a-52b1-43ee-9a00-cc4214202faf)
 ---
 # member 패키지
-![member](https://github.com/user-attachments/assets/c2780b7b-5406-43f1-92d6-160f78e27038)
+![image](https://github.com/user-attachments/assets/516052a7-76cf-4432-bdc8-153677fe7915)
+
 ---
 # order 패키지
-![Order](https://github.com/user-attachments/assets/36177dc6-e63f-4b8b-b56e-6fd915493294)
+![image](https://github.com/user-attachments/assets/b27cde2f-3807-4b8e-bd13-08bacc5ccc28)
+
 ---
 # cart 패키지
 ![image](https://github.com/user-attachments/assets/d97676de-a8c5-4839-b85d-21dbf659715a)
