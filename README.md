@@ -12,6 +12,8 @@ Use-Case다이어그램
 
 Class 다이어그램
 
+개발환경
+
 콘솔앱 영상(1.회원 2.관리자)
 
 # Use-Case 다이어그램
@@ -23,11 +25,13 @@ Class 다이어그램
 ---
 # 요구사항 정의 
 ---
-![요구사항 정의](https://github.com/user-attachments/assets/3f20322e-1b0c-49fe-b0a5-5411607723e0)
+![image](https://github.com/user-attachments/assets/5a12209b-5b6e-4e42-93d9-044b48fa4afb)
+
 
 # 펜
 ---
-![기능 요구사항 펜](https://github.com/user-attachments/assets/a78c46fc-f61a-4dfd-923d-1c05f357c2fc)
+![image](https://github.com/user-attachments/assets/27dffa26-6c12-4a0e-ab16-822f5d0ce00f)
+
 
 # 사용자
 ---
@@ -57,6 +61,13 @@ Class 다이어그램
 ![image](https://github.com/user-attachments/assets/d97676de-a8c5-4839-b85d-21dbf659715a)
 
 ---
+#개발환경
+---
+Java 17 이상
+콘솔 기반 애플리케이션
+객체 직렬화 기반 .obj 파일 저장 방식 사용
+Eclipse 사용
+
 # 콘솔앱 시연 영상
 
 # 회원모드
